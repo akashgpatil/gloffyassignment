@@ -1,4 +1,4 @@
-# gloffyassignment
+Project file
 
 Below schema and tables need to be created on mysql.
 create database demo9; --Create Schema 
